@@ -20,16 +20,3 @@ after install it follow those instructions.
 7.then run it., 
 before it running there are two arguments want to give to it.
 ./<compile name of file> <created r-only file> <write here something>
-
-
-Referances,
-1.https://chao-tic.github.io/blog/2017/05/24/dirty-cow#fn:madv
-2.https://www.youtube.com/watch?v=0BHFT8YkApI
-3.https://en.wikipedia.org/wiki/Copy-on-write#Copy-on-write_in_virtual_memory_management
-4.https://gist.github.com/rverton/e9d4ff65d703a9084e85fa9df083c679
-5.https://www.cs.toronto.edu/~arnold/427/18s/427_18S/indepth/dirty-cow/index.html
-6.https://www.makeuseof.com/tag/dirty-cow-vulnerability-everything-know/
-7.https://en.wikipedia.org/wiki/Dirty_COW
-8.https://gist.github.com/rverton/e9d4ff65d703a9084e85fa9df083c679
-9.https://www.youtube.com/watch?v=CQcgz43MEZg
-10.https://www.youtube.com/watch?v=kEsshExn7aE&t=4s
