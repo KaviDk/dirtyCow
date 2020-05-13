@@ -18,8 +18,8 @@ after install it follow those instructions.
 5.compile and run the .c file in where the .txt file created.
 
 7.then run it., 
-          before it running there are two arguments want to give to it.
-          ./<compile name of file> <created r-only file> <write here something>
+before it running there are two arguments want to give to it.
+./<compile name of file> <created r-only file> <write here something>
 
 
 Referances,
