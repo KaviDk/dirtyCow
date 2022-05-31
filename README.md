@@ -9,4 +9,6 @@ after install it follow those instructions.
 5.	Compile and run the ‘.c’ file in where the ‘.txt’ file created.
 6.	Then run it., 
 before it running there are two arguments want to give to it.
-    ./compile_name_of_file_created r-only file  write_here_something
+
+
+./compile_name_of_file_created r-only file  write_here_something
